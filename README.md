@@ -5,7 +5,7 @@ Fique a vontade para ajudar na evolução dos programas para a proteção de sis
 
 ## Sumário
 * [Descrição](#Descrição)
-* [Tecnologias Utilizadas](#Tecnologia)
+* [Tecnologias Utilizadas](#Tecnologias)
 * [Back-end e Funcionamento](#Back-end)
 
 ## Descrição
