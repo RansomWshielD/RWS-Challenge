@@ -1,0 +1,15 @@
+----------------Olá, Seja Bem Vindo aos Produtos da RansomWShield----------------
+
+Índice:
+
+-Como Intalar as Ferramentas RWS 	..........1
+	-SetupHoneypot			..........2
+	-SetupBackup 			..........3
+
+-Como Usar as Ferramentas RWS ....................4
+	-dTrap.exe & get-pid.exe	..........5
+	-bckpRWS.exe			..........6
+	-seguranca-Backup.exe		..........7
+
+----------------Como Intalar as Ferramentas RWS----------------
+SetupHoneypot
