@@ -18,7 +18,7 @@ Para instalar nossas ferramentas, acesse https://github.com/RansomWshielD/RWS-Ch
 \
 Caso queria consultar nosso código fonte acesse as pastas Honeypot e Backup do link https://github.com/RansomWshielD/RWS-Challenge/. E para saber mais consulte ##Back-end e Funcionamento
 
-## Tecnologias
+## Tecnologias Utilizadas
 * Pyhton
 * Visual Studio 2022
 * Visual Studio Code
